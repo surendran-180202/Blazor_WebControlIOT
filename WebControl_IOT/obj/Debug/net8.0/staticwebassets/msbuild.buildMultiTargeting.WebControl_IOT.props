@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebControl_IOT.props" />
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Temp\\WebControl_IOT\\WebControl_IOT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebControl_IOT.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebControl_IOT.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Temp\\WebControl_IOT\\WebControl_IOT\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "E:\\Temp\\WebControl_IOT\\WebControl_IOT\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Temp\\WebControl_IOT\\WebControl_IOT\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Temp\\WebControl_IOT\\WebControl_IOT\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebControl_IOT.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebControl_IOT.props",
+      "PackagePath": "build\\WebControl_IOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebControl_IOT.props",
+      "PackagePath": "buildMultiTargeting\\WebControl_IOT.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebControl_IOT.props",
+      "PackagePath": "buildTransitive\\WebControl_IOT.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
